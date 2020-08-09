@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/JohnKiranG/react-gh-page-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/JohnKiranG/react-gh-page-app/static/js/main.fb78e5c6.chunk.js",
-    "main.js.map": "/JohnKiranG/react-gh-page-app/static/js/main.fb78e5c6.chunk.js.map",
-    "runtime-main.js": "/JohnKiranG/react-gh-page-app/static/js/runtime-main.cdfb9e12.js",
-    "runtime-main.js.map": "/JohnKiranG/react-gh-page-app/static/js/runtime-main.cdfb9e12.js.map",
-    "static/js/2.763b34e5.chunk.js": "/JohnKiranG/react-gh-page-app/static/js/2.763b34e5.chunk.js",
-    "static/js/2.763b34e5.chunk.js.map": "/JohnKiranG/react-gh-page-app/static/js/2.763b34e5.chunk.js.map",
+    "main.js": "/JohnKiranG/react-gh-page-app/static/js/main.8484999b.chunk.js",
+    "main.js.map": "/JohnKiranG/react-gh-page-app/static/js/main.8484999b.chunk.js.map",
+    "runtime-main.js": "/JohnKiranG/react-gh-page-app/static/js/runtime-main.0d06ab47.js",
+    "runtime-main.js.map": "/JohnKiranG/react-gh-page-app/static/js/runtime-main.0d06ab47.js.map",
+    "static/js/2.db6c859c.chunk.js": "/JohnKiranG/react-gh-page-app/static/js/2.db6c859c.chunk.js",
+    "static/js/2.db6c859c.chunk.js.map": "/JohnKiranG/react-gh-page-app/static/js/2.db6c859c.chunk.js.map",
     "index.html": "/JohnKiranG/react-gh-page-app/index.html",
-    "precache-manifest.61b789f963b8c446eb37df28d30551bb.js": "/JohnKiranG/react-gh-page-app/precache-manifest.61b789f963b8c446eb37df28d30551bb.js",
+    "precache-manifest.067b523589b68d90b528df3b9b5bd8f9.js": "/JohnKiranG/react-gh-page-app/precache-manifest.067b523589b68d90b528df3b9b5bd8f9.js",
     "service-worker.js": "/JohnKiranG/react-gh-page-app/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/JohnKiranG/react-gh-page-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/JohnKiranG/react-gh-page-app/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/js/2.db6c859c.chunk.js.LICENSE.txt": "/JohnKiranG/react-gh-page-app/static/js/2.db6c859c.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/JohnKiranG/react-gh-page-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cdfb9e12.js",
-    "static/js/2.763b34e5.chunk.js",
+    "static/js/runtime-main.0d06ab47.js",
+    "static/js/2.db6c859c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fb78e5c6.chunk.js"
+    "static/js/main.8484999b.chunk.js"
   ]
 }
